@@ -1,0 +1,5 @@
+node_modules/
+outputs/**/*.png
+outputs/**/*.ndjson
+inspect_*.png
+~$*
